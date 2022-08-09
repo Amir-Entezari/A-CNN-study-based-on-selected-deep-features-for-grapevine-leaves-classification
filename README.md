@@ -1,4 +1,4 @@
-# data-mining-project
+# A CNN study based on selected deep features for grapevine leaves classification
 ## Data Set
 The dataset that is considered in this project is about to recognition of the types of grape leaves.In addition to the fruit of the grape tree, the leaves of the grape tree can also be used and based on its type, its price and use are determined. It is not possible to separate these leaves manually on a large scale.Therefore, we try to do the sorting of leaves automatically with the data we have.
 ### Step 1:
